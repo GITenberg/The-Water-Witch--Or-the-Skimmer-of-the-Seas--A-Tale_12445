@@ -1,0 +1,32 @@
+_repo: The-Water-Witch--Or-the-Skimmer-of-the-Seas--A-Tale_12445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, J. Fenimore (James Fenimore)
+    - Cooper, Fenimore
+    - Morgan, Jane
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: Pivoting on the attempts by Dutch merchants and American sailors to evade
+  the taxes of the corrupt British government, The Water-Witch is almost prophetic
+  as Cooper depicts the politics that led to the Revolution. The vivacious Alida de
+  Barberie and her colorful crew make this one of Cooper's most beguiling tales.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sea stories'
+- GITenberg
+title: 'The Water-Witch; Or, the Skimmer of the Seas: A Tale'
+url: http://www.gutenberg.org/ebooks/12445
